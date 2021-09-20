@@ -74,7 +74,7 @@ $ sudo npm install --unsafe-perm=true --allow-root
 Once your server has started, go to this url `http://localhost:3000/` and you will see the website running on a Development Server:
 
 <h2 align="center">
-  <img src="https://ibb.co/q143DHZ" alt="homepage" width="100%">
+  <a href="https://ibb.co/q143DHZ"><img src="https://i.ibb.co/WKd4HrT/Screenshot-from-2021-09-20-22-09-50.png" alt="Screenshot-from-2021-09-20-22-09-50" border="0"></a>
 </h2>
 
 ## Technologies used 🛠️
