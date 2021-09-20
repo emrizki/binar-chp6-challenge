@@ -1,27 +1,27 @@
 # [FSW] - Chapter 6 Challenge 
 
 ### Challenge
-1. Simple monolith dashboard using view engine (EJS) ✅
-2. Super user authentication login dashboard using static data ✅
+1. Simple monolith dashboard using view engine (EJS) :heavy_check_mark:
+2. Super user authentication login dashboard using static data :heavy_check_mark:
 3. Create 3 table:
-    - UserGame table ✅
-    - UserGameBiodata table
-    - UserGameHistory table
+    - UserGame table :heavy_check_mark:
+    - UserGameBiodata table :heavy_check_mark:
+    - UserGameHistory table :heavy_check_mark:
 4. Connect to SQL database with method:
-    - Create UserGame data
-    - Read UserGame data
-    - Update UserGame data
-    - Delete UserGame data
-5. Designing and Implementing database schema that links 3 table which UserId as Parent Key (PK)
-6. RESTFUL API one endpoint with CRUD method (create, read, delete, update)
+    - Create UserGame data :heavy_check_mark:
+    - Read UserGame data :heavy_check_mark:
+    - Update UserGame data :heavy_check_mark:
+    - Delete UserGame data :heavy_check_mark:
+5. Designing and Implementing database schema that links 3 table which UserId as Parent Key (PK) :heavy_check_mark:
+6. RESTFUL API one endpoint with CRUD method (create, read, delete, update) :heavy_check_mark:
 7. Database table attribute:
-    - UserGame
-        * email
+    - UserGame :heavy_check_mark:
+        * email 
         * username
         * password
-    - UserGameBiodata
+    - UserGameBiodata :heavy_check_mark:
         * name
-    - UserGameHistory
+    - UserGameHistory :heavy_check_mark:
         * result
  
  ## Getting Started 🚀
