@@ -61,7 +61,7 @@ Using NPM:
 $ npm install
 
 # Start development server
-$ npm start
+$ npx nodemon index.js
 ```
 
 **NOTE**:
